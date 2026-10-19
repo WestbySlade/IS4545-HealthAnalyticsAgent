@@ -1,0 +1,6 @@
+{
+  "name": "AegisHealth CAIO & Executive Analytics",
+  "description": "Enterprise healthcare analytics and Chief AI Officer transformation dashboard analyzing patient feedback, sentiment, operational bottlenecks, health equity, and clinical AI governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
